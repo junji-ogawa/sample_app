@@ -66,6 +66,10 @@ p {
 /* header */
 
 
+header .container{
+margin: 0;
+}
+
 a {
   color: $gray-600;
 }
@@ -76,6 +80,7 @@ li {
     padding: 10px;
   }
 }
+
 
 #logo {
 
