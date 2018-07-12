@@ -18,6 +18,9 @@ gem 'bootstrap', '~> 4.1.1'
 gem 'jquery-rails'
 gem 'sprockets', '~> 3.7.2'
 gem 'devise'
+gem 'faker'
+gem 'will_paginate'
+gem 'will_paginate-bootstrap', '1.0.1'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
